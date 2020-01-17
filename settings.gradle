@@ -1,0 +1,2 @@
+include ':finaluri'
+rootProject.name='Finaluri'
